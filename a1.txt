@@ -1,7 +1,12 @@
 this is my second file
-
+#### copy of raj#####
 def computeArea():
   print("Area of Circle:")
 
 def computePerimeter():
 	print("perimeter:")
+
+def computeAreaofCircle():
+	print("Cirle ARea:")
+def computeAReaofTriangle():
+	print("Triangle area:")
