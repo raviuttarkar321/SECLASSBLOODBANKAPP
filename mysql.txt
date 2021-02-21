@@ -1,0 +1,3 @@
+name rollno  marks
+raj   1      10
+amit  2       20
