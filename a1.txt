@@ -1,11 +1,22 @@
 this is my second file
+<<<<<<< HEAD
 #############master copy###########
+=======
+#### copy of raj#####
+>>>>>>> raj
 def computeArea():
   print("Area of Circle:")
 
 def computePerimeter():
 	print("perimeter:")
 
+<<<<<<< HEAD
 
 #work raj need to combine with master copy
-#if work is properly tested against test cases
+#if wor	k is properly tested against test cases
+=======
+def computeAreaofCircle():
+	print("Cirle ARea:")
+def computeAReaofTriangle():
+	print("Triangle area:")
+>>>>>>> raj
