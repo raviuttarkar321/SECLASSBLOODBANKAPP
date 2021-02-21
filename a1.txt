@@ -2,3 +2,6 @@ this is my second file
 
 def computeArea():
   print("Area of Circle:")
+
+def computePerimeter():
+	print("perimeter:")
